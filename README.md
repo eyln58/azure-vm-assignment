@@ -1,4 +1,4 @@
-# 🚀 My First Azure Infrastructure Setup: Building a Basic Cloud Environment ☁️💻  
+# 🚀 My Azure Infrastructure Setup: Building a Basic Cloud Environment ☁️💻  
 
 I recently completed a hands-on project setting up a foundational **Azure infrastructure** using a **free Azure account**. Here's what I did and the valuable skills I gained along the way:  
 
